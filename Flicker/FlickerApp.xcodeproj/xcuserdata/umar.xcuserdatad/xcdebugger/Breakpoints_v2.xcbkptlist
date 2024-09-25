@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ECDF584E-17F4-4C97-BC60-BDCD300B5C90"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1DB6B19-492D-46EB-8864-9FB4E2CDC7E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickerApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "startListening()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1DB6B19-492D-46EB-8864-9FB4E2CDC7E6 - 8fface4817f5c9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlickerApp.ContentView.startListening() -&gt; ()"
+                  moduleName = "FlickerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umar/Documents/Assignment/Image_FlickerApp/FlickerApp/FlickerApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "C1DB6B19-492D-46EB-8864-9FB4E2CDC7E6 - 8fface4817f5c9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlickerApp.ContentView.startListening() -&gt; ()"
+                  moduleName = "FlickerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umar/Documents/Assignment/Image_FlickerApp/FlickerApp/FlickerApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "C1DB6B19-492D-46EB-8864-9FB4E2CDC7E6 - 8fface4817f5c9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlickerApp.ContentView.startListening() -&gt; ()"
+                  moduleName = "FlickerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umar/Documents/Assignment/Image_FlickerApp/FlickerApp/FlickerApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "C1DB6B19-492D-46EB-8864-9FB4E2CDC7E6 - 25e741c02f7a0a43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlickerApp.ContentView.startListening() -&gt; ()"
+                  moduleName = "FlickerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umar/Documents/Assignment/Image_FlickerApp/MyApp/FlickerApp/FlickerApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "C1DB6B19-492D-46EB-8864-9FB4E2CDC7E6 - b66959b85c232d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;) -&gt; () in FlickerApp.ContentView.startListening() -&gt; ()"
+                  moduleName = "FlickerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/umar/Documents/Assignment/456/Flicker/FlickerApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "733B1F1D-C218-4724-BD31-998B5BBA7DA0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
